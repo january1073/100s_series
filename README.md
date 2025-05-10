@@ -1,8 +1,10 @@
+[Cheatsheets](https://github.com/january1073/cheatsheets)
+
 # 100s Series
 
 Last update: 2025-05-10
 
-| Tool       | Description | Tactics      | Walkthrough     | Cheatsheet |
-|:-----------|:------------|:-------------|:----------------|:-----------|
-| **tcpdump** | Command-line packet analyzer; useful for network troubleshooting and security analysis | `Discovery` `Collection` `Credential Access` | [101](https://osintteam.blog/tcpdump-101-silently-capturing-your-targets-network-traffic-76b839e64232) | [Cheatsheet](https://github.com/january1073/cheatsheets/blob/main/files/tcpdump.md) |
-| **Wireshark** | GUI-based packet analyzer; useful for in-depth network protocol analysis, real-time traffic capture, and troubleshooting complex network issues | `Discovery` `Collection` `Credential Access` | capturing ... | [Cheatsheet](https://github.com/january1073/cheatsheets/blob/main/files/wireshark.md) |
+| Tool       | Description | Tactics      | Walkthrough     |
+|:-----------|:------------|:-------------|:----------------|
+| **tcpdump** | Command-line packet analyzer; useful for network troubleshooting and security analysis | `Discovery` `Collection` `Credential Access` | [101](https://osintteam.blog/tcpdump-101-silently-capturing-your-targets-network-traffic-76b839e64232) |
+| **Wireshark** | GUI-based packet analyzer; useful for in-depth network protocol analysis, real-time traffic capture, and troubleshooting complex network issues | `Discovery` `Collection` `Credential Access` | capturing ... ||
