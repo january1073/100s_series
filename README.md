@@ -1,20 +1,8 @@
 # 100s Series
 
-<table border="1">
-  <thead>
-    <tr>
-      <th>Tool</th>
-      <th>Description</th>
-      <th>Walk-through</th>
-      <th>Cheatsheet</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>tcpdump</td>
-      <td>Command-line packet analyzer; useful for network troubleshooting and security analysis</td>
-      <td><a href="https://osintteam.blog/tcpdump-101-silently-capturing-your-targets-network-traffic-76b839e64232"_blank">101</a></td>
-      <td><a href="https://github.com/january1073/cheatsheets/blob/main/files/tcpdump.md"_blank">Cheatsheet</a></td>
-    </tr>
-  </tbody>
-</table>
+Last update: 2025-05-10
+
+| Tool       | Description | Tactics      | Walkthrough     | Cheatsheet |
+|:-----------|:------------|:-------------|:----------------|:-----------|
+| **tcpdump** | Command-line packet analyzer; useful for network troubleshooting and security analysis | `Discovery` `Collection` `Credential Access` | [101](https://osintteam.blog/tcpdump-101-silently-capturing-your-targets-network-traffic-76b839e64232) | [Cheatsheet](https://github.com/january1073/cheatsheets/blob/main/files/tcpdump.md) |
+| **Wireshark** | GUI-based packet analyzer; useful for in-depth network protocol analysis, real-time traffic capture, and troubleshooting complex network issues | `Discovery` `Collection` `Credential Access` | capturing ... | [Cheatsheet](https://github.com/january1073/cheatsheets/blob/main/files/wireshark.md) |
