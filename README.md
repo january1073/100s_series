@@ -1,6 +1,6 @@
 # 100s Series
 
-Last update: 2025-05-25
+Last update: 2025-05-26
 
 | Tool       | Description | Tactics      | Walktrough      |
 |:-----------|:------------|:-------------|:----------------|
