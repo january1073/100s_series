@@ -1,7 +1,5 @@
 # 100s Series
 
-Last update: 2025-06-14
-
 | Tool       | Description | Tactics      | Walktrough      |
 |:-----------|:------------|:-------------|:----------------|
 | **tcpdump** | Command-line packet analyzer; useful for network troubleshooting and security analysis | ![Discovery](https://img.shields.io/badge/Discovery-DC143C?style=flat-square&logoColor=white) ![Collection](https://img.shields.io/badge/Collection-DC143C?style=flat-square&logoColor=white) ![Credential Access](https://img.shields.io/badge/Credential%20Access-DC143C?style=flat-square&logoColor=white) | [101](https://medium.com/the-first-digit/tcpdump-101-silently-capturing-your-targets-network-traffic-76b839e64232) |
